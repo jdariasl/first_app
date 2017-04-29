@@ -13,7 +13,7 @@ gem 'rails', '~> 5.1.0'
 gem 'puma', '~> 3.7'
 
 # Use sqlite3 as the database for Active Record
-gem 'sqlite3'
+gem 'sqlite3', '1.3.13'
 
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
