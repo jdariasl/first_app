@@ -1,6 +1,5 @@
 GEM
   remote: https://rubygems.org/
-  ruby '2.3.4'
   specs:
     actioncable (5.1.0)
       actionpack (= 5.1.0)
@@ -175,7 +174,6 @@ GEM
 
 PLATFORMS
   ruby
-  
 
 DEPENDENCIES
   byebug
